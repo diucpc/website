@@ -10,7 +10,7 @@ let contestsCount = 0;
 // Notice
 let noticeTitle = 'notice title';
 let noticeBody = 'notice body';
-let nextMeetingDate = 'September 03, 2019 5:15PM at Room No. 203';
+let nextMeetingDate = 'October 07, 2019 5:15PM at Room No. 203';
 
 // Admins
 let admins = [];
