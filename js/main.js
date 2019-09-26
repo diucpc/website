@@ -9,6 +9,3 @@ document.querySelector('.members_count').textContent = membersCount;
 document.querySelector('.events_count').textContent = eventsCount;
 document.querySelector('.projects_count').textContent = projectsCount;
 document.querySelector('.contests_count').textContent = contestsCount;
-
-// Notice
-document.querySelector('.next_meeting').textContent = nextMeetingDate;

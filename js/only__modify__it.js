@@ -3,9 +3,9 @@ let version = '1.0.0';
 
 // Count
 let membersCount = 20;
-let eventsCount = 0;
+let eventsCount = 1;
 let projectsCount = 0;
-let contestsCount = 0;
+let contestsCount = 1;
 
 // Notice
 let noticeTitle = 'notice title';
