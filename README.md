@@ -1,1 +1,3 @@
-# This Website will be live at 6 AM today!
+# about
+
+this is the repo of official website of DIU CPC.
